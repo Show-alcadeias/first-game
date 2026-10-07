@@ -3,8 +3,15 @@
     "*.gd": "gdscript"
   },
   "editor.formatOnSave": true,
+  "godotFormatter.enabled": true,
+  "godotFormatter.useBuiltInBinary": true,
+  "godotFormatter.useSpaces": false,
   "[gdscript]": {
-    "editor.defaultFormatter": "geequlim.godot-tools",
-    "editor.formatOnSave": true
+    "editor.defaultFormatter": "DoHe.godot-format",
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "file",
+    "editor.insertSpaces": false,
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false
   }
 }
