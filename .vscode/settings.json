@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.gd": "gdscript"
+  },
+  "editor.formatOnSave": true,
+  "[gdscript]": {
+    "editor.defaultFormatter": "geequlim.godot-tools",
+    "editor.formatOnSave": true
+  }
+}
